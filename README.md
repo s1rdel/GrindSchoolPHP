@@ -17,7 +17,7 @@ The database is named `GrindSchoolSYS` and includes the following tables:
 
 SQL initialization script: **`GrindSchoolSYS.sql`**
 
-## ⚙️ Features
+## Features
 
 ###  Subject Management
 - **Add Subject**: Fill in a form to add a new subject to the database.
